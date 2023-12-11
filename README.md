@@ -1,1 +1,2 @@
-# Jatin-Hada_Sneakers
+# SneakersStore
+https://kanishknoir.github.io/SneakersStore/
