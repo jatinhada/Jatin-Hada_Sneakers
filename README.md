@@ -1,2 +1,2 @@
 # SneakersStore
-https://jatin.github.io/SneakersStore/
+https://jatinhada.github.io/Jatin-Hada_Sneakers/
